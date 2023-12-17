@@ -5,7 +5,7 @@ Usually for development I use *ArchLinux* & *NeoVIM*.
 
 #### You can contact me via:
 * email: `durbstazg@proton.me`
-* matrix: `durbstazg`
+* matrix: `@durbstazg:matrix.org`
 
 #### You can donate me via:
 * XMR: `49GXWs7gDaHXhYWpLxyNet5Q42sTEnu2R3iL7cFzxGPhNjiyyUisXDJUnxroWiLsdvUvWDncCSVznXCLVGPKqwEL6Rb1cWV`
